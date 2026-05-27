@@ -1,6 +1,6 @@
 # GitHub Profile Finder
 
-🔗 [Live Demo]()
+🔗 [Live Demo](https://dennis0474.github.io/github-profile-finder/)
 
 A vanilla JavaScript app that searches any GitHub user and displays
 their profile, stats and top repositories using the GitHub REST API.
